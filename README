@@ -1,1 +1,21 @@
-Tu będzie krótka dokumentacja
+0. About
+
+P1 by Mateusz Sznura
+
+
+1. Building
+
+To build the program, execute:
+
+make
+
+
+2. Running 
+
+To run the program, execute:
+
+make run
+
+or directly:
+
+./pracownia-1
